@@ -75,4 +75,4 @@ La aplicación consta de cuatro repositorios incluido este  para funcionar:
 
 
 
-![Diagrama Apis.svg](#file:305c41d8-b59c-42db-7731-74c786a4a4c5)
+[Diagrama de clases Carrito de compras.drawio.html](#file:6626d05d-1eaf-781c-09b2-e3943a839ca1)
