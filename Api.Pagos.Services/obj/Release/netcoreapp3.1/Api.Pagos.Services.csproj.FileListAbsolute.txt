@@ -1,0 +1,12 @@
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pagos.Services\bin\Release\netcoreapp3.1\Api.Pagos.Services.deps.json
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pagos.Services\bin\Release\netcoreapp3.1\Api.Pagos.Services.dll
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pagos.Services\bin\Release\netcoreapp3.1\Api.Pagos.Services.pdb
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pagos.Services\bin\Release\netcoreapp3.1\Api.Pagos.Models.dll
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pagos.Services\bin\Release\netcoreapp3.1\Api.Pagos.Models.pdb
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pagos.Services\obj\Release\netcoreapp3.1\Api.Pagos.Services.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pagos.Services\obj\Release\netcoreapp3.1\Api.Pagos.Services.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pagos.Services\obj\Release\netcoreapp3.1\Api.Pagos.Services.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pagos.Services\obj\Release\netcoreapp3.1\Api.Pagos.Services.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pagos.Services\obj\Release\netcoreapp3.1\Api.Pagos.Services.csproj.CopyComplete
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pagos.Services\obj\Release\netcoreapp3.1\Api.Pagos.Services.dll
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pagos.Services\obj\Release\netcoreapp3.1\Api.Pagos.Services.pdb

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Api.Pagos.Models\Api.Pagos.Models.csproj" />
+    <ProjectReference Include="..\Api.Pagos.Services\Api.Pagos.Services.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pagos.Models\bin\Debug\netcoreapp3.1\Api.Pagos.Models.deps.json
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pagos.Models\bin\Debug\netcoreapp3.1\Api.Pagos.Models.dll
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pagos.Models\bin\Debug\netcoreapp3.1\Api.Pagos.Models.pdb
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pagos.Models\obj\Debug\netcoreapp3.1\Api.Pagos.Models.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pagos.Models\obj\Debug\netcoreapp3.1\Api.Pagos.Models.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pagos.Models\obj\Debug\netcoreapp3.1\Api.Pagos.Models.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pagos.Models\obj\Debug\netcoreapp3.1\Api.Pagos.Models.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pagos.Models\obj\Debug\netcoreapp3.1\Api.Pagos.Models.dll
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pagos.Models\obj\Debug\netcoreapp3.1\Api.Pagos.Models.pdb
