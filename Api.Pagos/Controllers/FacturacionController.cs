@@ -16,16 +16,16 @@ namespace Api.Orq.Pagos.Controllers
             _facturacionService = facturacionService;
         }
 
-        [HttpGet("obtenerPedidos")]
-        public async Task<IActionResult> obtenerPedidos()
+        [HttpGet("ObtenerPedidos")]
+        public async Task<IActionResult> ObtenerPedidos()
         {
 
             var result = await _facturacionService.GetPedidos();
             return Ok(result);
         }
 
-        [HttpGet("obtenerPedidoId")]
-        public async Task<IActionResult> obtenerPedidoId(int id)
+        [HttpGet("ObtenerPedidoId")]
+        public async Task<IActionResult> ObtenerPedidoId(int id)
         {
             var result = await _facturacionService.GetPedidoById(id);
             return Ok(result);

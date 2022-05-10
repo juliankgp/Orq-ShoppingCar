@@ -1,5 +1,5 @@
-﻿using Api.Pago.Application.Services.Interface;
-using Api.Pagos.Controllers;
+﻿using Api.Orq.Pagos.Controllers;
+using Api.Pago.Application.Services.Interface;
 using Api.Pagos.Models.Models;
 using Microsoft.AspNetCore.Mvc;
 using Moq;
@@ -24,7 +24,7 @@ namespace Api.Pago.Test.Presentation.Controllers
             #endregion
 
             #region Act
-            var response = facturacionController.obtenerPedidos();
+            var response = facturacionController.ObtenerPedidos();
             #endregion
 
             #region Assert
@@ -45,7 +45,7 @@ namespace Api.Pago.Test.Presentation.Controllers
             #endregion
 
             #region Act
-            var response = facturacionController.obtenerPedidoId(1);
+            var response = facturacionController.ObtenerPedidoId(1);
             #endregion
 
             #region Assert

@@ -14,6 +14,7 @@ namespace Api.Pagos.Handlers
             services.AddTransient<IPagoService, PagoService>();
             services.AddTransient<IFacturacionService, FacturacionService>();
             services.AddTransient<IRestService, RestService>();
+            services.AddTransient<IProductService, ProductService>();
         }
 
     }

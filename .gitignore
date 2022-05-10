@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/TestResults
+/.vscode
+/.vs/Api.Orq.Pago/DesignTimeBuild/.dtbcache.v2
+/Api.Pago.Test/bin/Debug/netcoreapp3.1
