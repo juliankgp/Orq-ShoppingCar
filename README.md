@@ -72,3 +72,7 @@ La aplicación consta de cuatro repositorios incluido este  para funcionar:
 | CrearProducto  | [*api/Productos/CrearProducto*](https://github.com/juliankgp/Productos-ShoppingCar)| POST |
 | ObtenerProductos |[*api/Productos/ObtenerProductos*](https://github.com/juliankgp/Productos-ShoppingCar) |GET|
 | ObtenerProductoPorId | [*api/Productos/ObtenerProductoPorId*](https://github.com/juliankgp/Productos-ShoppingCar) |GET|
+
+
+
+![Diagrama Apis.svg](#file:305c41d8-b59c-42db-7731-74c786a4a4c5)
