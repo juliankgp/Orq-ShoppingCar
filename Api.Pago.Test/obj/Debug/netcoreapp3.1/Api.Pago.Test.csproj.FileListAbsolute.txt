@@ -142,3 +142,9 @@ C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pago.Test\bin\Deb
 C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pago.Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
 C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pago.Test\bin\Debug\netcoreapp3.1\Api.Pagos.dll
 C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Api.Pagos\Api.Pago.Test\bin\Debug\netcoreapp3.1\Api.Pagos.pdb
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Orq-ShoppingCar\Api.Pago.Test\obj\Debug\netcoreapp3.1\Api.Pago.Test.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Orq-ShoppingCar\Api.Pago.Test\obj\Debug\netcoreapp3.1\Api.Pago.Test.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Orq-ShoppingCar\Api.Pago.Test\obj\Debug\netcoreapp3.1\Api.Pago.Test.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Orq-ShoppingCar\Api.Pago.Test\obj\Debug\netcoreapp3.1\Api.Pago.Test.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Orq-ShoppingCar\Api.Pago.Test\obj\Debug\netcoreapp3.1\Api.Pago.Test.dll
+C:\Users\julia\OneDrive\Documents\Proyectos\Tuya\Orq-ShoppingCar\Api.Pago.Test\obj\Debug\netcoreapp3.1\Api.Pago.Test.pdb
