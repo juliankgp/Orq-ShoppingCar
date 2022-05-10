@@ -36,12 +36,6 @@ Lo primero que se debe hacer es descargar el repositorio en una máquina local, 
 
 Descargue el proyecto en una ruta en su PC, y abra la carpeta con su editor de código de preferencia, si usa Visual Studio, solo deberá ejecutar el proyecto **Api.Orq.Pagos** y el **IIS Express**
 
-![2022-05-10 11_58_15-Api.Orq.Pago - Microsoft Visual Studio.png](#file:b1899488-5d5e-c729-214c-b0cc7d80f29c)
-
-de esta manera, se ejecutará el proyecto:
-
-![swagger pagos.png](#file:05729af1-96d3-2279-e66a-8d552cd690b1)
-
 ## Pruebas unitarias 
 ### XUnit
 Este proyecto se le realizaron pruebas unitarias con Xunit, es el proyecto que mas completo tiene las pruebas, puesto que los demas no poseen o solo tienen muy pocas.
